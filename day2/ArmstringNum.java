@@ -7,7 +7,7 @@ public class ArmstringNum {
 		int input=153;
 		int original=153;
 		int calculated=0; 
-		int remainder=1;
+		int remainder=0;
 		System.out.println("Entered value :"+original);
 		while(input>0)
 		{
